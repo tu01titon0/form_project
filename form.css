@@ -1,0 +1,40 @@
+.center_card {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: white;
+}
+.title{
+    padding: 5px 0 5px 0;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+.bg-blue{
+    background-color: rgb(136, 210, 232);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.border-table{
+    padding: 10px auto 10px auto;
+}
+.label-name{
+    text-align: right;
+    color:blue;
+}
+#name{
+    width: 100%;
+}
+#email{
+    width: 80%;
+}
+.pd-bottom{
+    padding-bottom: 20px;
+}
+.lh-20{
+   line-height: 30px;
+}
+label{
+    color: coral;
+}

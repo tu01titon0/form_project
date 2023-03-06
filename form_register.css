@@ -1,0 +1,15 @@
+.title{
+    color: blue;
+    background-color: rgb(111, 181, 181);
+    font-size: 35px;
+    padding: 5px 0 5px 0;
+}
+.center_card {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: rgb(231, 231, 13);
+}
+.color-blue{
+    color: blue;
+}
